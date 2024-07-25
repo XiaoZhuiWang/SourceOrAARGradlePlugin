@@ -1,0 +1,2 @@
+# SourceOrAARGradlePlugin
+实现Adnroid Module 源码依赖和AAR的依赖切换的gradle插件，旨在提升复杂项目的编译速度
